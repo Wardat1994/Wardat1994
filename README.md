@@ -1,16 +1,54 @@
-## Hi there 👋
+# Mohammad Yasin Al-Wardat
 
-<!--
-**Wardat1994/Wardat1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ph.D. Candidate | Robotics and Control Systems Researcher**
 
-Here are some ideas to get you started:
+I am a researcher specializing in robotics, automation, and control systems, with a focus on robotic manipulators, motion planning, obstacle avoidance, singularity avoidance, inverse kinematics, Jacobian-based control, and intelligent control methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+* Robotic Manipulator Kinematics
+* Forward and Inverse Kinematics
+* Singularity Detection and Avoidance
+* Real-Time Motion Planning
+* Obstacle Avoidance
+* Jacobian-Based Control
+* Damped Least Squares (DLS)
+* Redundancy Resolution and Null-Space Optimization
+* Fuzzy Logic and Intelligent Control
+
+## Technical Skills
+
+* Python
+* MATLAB / Simulink
+* Arduino
+* Robotics Toolbox
+* PID & DLS Control
+* PLC
+* SCADA
+* Fuzzy Logic
+
+## Featured Research Projects
+
+* 6-DOF RRRRRP Robot — Kinematics & Singularity Analysis
+* Real-Time Obstacle & Singularity Avoidance
+* Python + Arduino Robot Control
+
+## Research Publications
+
+My publications, awards, conference certificates, and academic materials are available in:
+
+**research-publications**
+
+## Academic Profiles
+
+* ORCID: 0009-0009-9505-6288
+* Scopus ID: 59317423900
+* ResearchGate
+* eLIBRARY
+
+## Awards & Scholarships
+
+* BIG PhD Competition Laureate — 2025
+* BIG PhD Competition Laureate — 2024
+* Open Doors Russian Scholarship — Ph.D. Studies
+* Russian Government Scholarship — Master's Studies
