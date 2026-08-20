@@ -43,8 +43,9 @@ My publications, awards, conference certificates, and academic materials are ava
 
 * ORCID: 0009-0009-9505-6288
 * Scopus ID: 59317423900
-* ResearchGate
-* eLIBRARY
+* ResearchGate: 
+* eLIBRARY: 1197685
+* eLIBRARY SPIN: 8559-1292 
 
 ## Awards & Scholarships
 
